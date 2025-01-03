@@ -10,3 +10,5 @@ E: Collect item
 Q: Place item
 Space bar: Jump
 Mouse: Perspective
+
+# There is a bug with the blue character. Due to the collision design, the player needs to stand a bit farther from the pull rod to activate the puzzle.
